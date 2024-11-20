@@ -1,3 +1,15 @@
+---
+name: Homework 6
+tools: [Python, HTML, vega-lite, Altair]
+image: assets/pngs/building_inventory_bar1.png
+description: This is the homework 6 project created by Jingyi Huang that uses vega-lite and Altair for interactive visualizations.
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
+---
+
 # Homework 6 Jekyll Webpage, Jingyi Huang, jingyi48
 
 ## Bar Chart 1: Building Count and Proportion by Agency Name and Status
